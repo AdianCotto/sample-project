@@ -1,0 +1,23 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "\"# Sample Project\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdianCotto/sample-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdianCotto/sample-project/issues"
+  },
+  "homepage": "https://github.com/AdianCotto/sample-project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
